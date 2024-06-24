@@ -27,5 +27,8 @@
     "nuxt-socket-io": "^3.0.13",
     "pinia": "^2.1.6",
     "vite-plugin-vuetify": "^1.0.2"
+  },
+  "engines": {
+    "node": ">=18.x.x"
   }
 }
